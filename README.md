@@ -12,3 +12,5 @@
 - Fun fact: I'm a huge fan of Marvel movies and TV shows!
 
 [![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramxnnn&show_icons=true&theme=radical)](https://github.com/ramxnnn/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramxnnn&hide_progress=true)
