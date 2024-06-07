@@ -11,10 +11,11 @@
 - Pronouns: He/Him
 - Fun fact: I'm a huge fan of Marvel movies and TV shows!
 
+
 <a href="https://github.com/ramxnnn/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ramxnnn&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/ramxnnn/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramxnnn&hide_progress=true&theme=radical&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramxnnn&hide_progress=true&theme=radical&layout=donut-vertical" />
 </a>
