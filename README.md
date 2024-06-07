@@ -17,5 +17,5 @@
 </a>
 
 <a href="https://github.com/ramxnnn/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramxnnn&hide_progress=true&theme=radical&layout=donut-vertical" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramxnnn&hide_progress=true&theme=radical&layout=donut-vertical" />
 </a>
