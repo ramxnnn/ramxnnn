@@ -14,3 +14,5 @@
 [![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramxnnn&show_icons=true&theme=radical)](https://github.com/ramxnnn/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramxnnn&hide_progress=true&theme=radical&layout=donut-vertical)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ramxnnn/github-readme-stats)
