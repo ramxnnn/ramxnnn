@@ -11,4 +11,4 @@
 - Pronouns: He/Him
 - Fun fact: I'm a huge fan of Marvel movies and TV shows!
 
-[![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramxnnn&show_iconds=true)](https://github.com/ramxnnn/github-readme-stats)
+[![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramxnnn&show_icons=true&theme=radical)](https://github.com/ramxnnn/github-readme-stats)
